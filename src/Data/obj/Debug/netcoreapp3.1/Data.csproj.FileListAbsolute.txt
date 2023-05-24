@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\user\Desktop\HotelReservationsManager-main\src\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\user\Desktop\SE Project\Rixos\src\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

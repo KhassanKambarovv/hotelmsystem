@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "762f6c54-c943-4904-b4cf-2f16ce6d3c1e": {
+      "ProjectGuid": "762f6c54-c943-4904-b4cf-2f16ce6d3c1e",
+      "DisplayName": "Services",
+      "ColorIndex": 0
+    },
+    "7eea6d5e-6311-4dbd-81d6-9c04cab0e17f": {
+      "ProjectGuid": "7eea6d5e-6311-4dbd-81d6-9c04cab0e17f",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "91efb66f-20c2-4d2c-9deb-b3e20b6ee736": {
+      "ProjectGuid": "91efb66f-20c2-4d2c-9deb-b3e20b6ee736",
+      "DisplayName": "Web",
+      "ColorIndex": 2
+    },
+    "c0dcd9be-bca1-466e-81da-fe58c791e337": {
+      "ProjectGuid": "c0dcd9be-bca1-466e-81da-fe58c791e337",
+      "DisplayName": "Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
